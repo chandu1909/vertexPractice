@@ -3,7 +3,21 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
+        <entry key="\build.gradle.kts">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\src\main\java\Verticles\VerticleN.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\main\java\com\asynchProgramming\vertexPractice_starter\verticles\MainVerticle.java">
           <value>
             <Attribute>
               <option name="separator" value=";" />

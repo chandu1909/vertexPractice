@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.asynchProgramming.vertexPractice_starter.TestMainVerticle" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-04-01T00:54:04" hostname="CHANDU-SURFACE" time="0.915">
+  <properties/>
+  <testcase name="verticle_deployed(Vertx, VertxTestContext)" classname="com.asynchProgramming.vertexPractice_starter.TestMainVerticle" time="0.915"/>
+  <system-out><![CDATA[HTTP server started on port 8888
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
