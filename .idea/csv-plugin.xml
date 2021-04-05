@@ -24,6 +24,27 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\src\main\java\com\asynchProgramming\vertexPractice_starter\eventbus\PointToPointExample.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\main\java\com\asynchProgramming\vertexPractice_starter\eventbus\PublishSubscribeExample.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\main\java\com\asynchProgramming\vertexPractice_starter\eventbus\RequestResponseExaple.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\src\main\java\com\asynchProgramming\vertexPractice_starter\verticles\MainVerticle.java">
           <value>
             <Attribute>
